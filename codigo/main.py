@@ -34,3 +34,5 @@ if valor == '1':
     analise_pu()
 if valor == '2':
     analise_dados()
+if valor == '3':
+    analise_juros()
